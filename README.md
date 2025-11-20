@@ -1,5 +1,5 @@
 
-# 📘 **README.md — JavaScript CI/CD Pipeline using GitHub Actions, SonarQube, Nexus, DockerHub & AWS EC2**
+# 📘  JavaScript CI/CD Pipeline using GitHub Actions, SonarQube, Nexus, DockerHub & AWS EC2**
 
 This project implements a **complete production-grade CI/CD pipeline** for a JavaScript-based Mario Runner web game using:
 
